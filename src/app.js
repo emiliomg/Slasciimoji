@@ -1,8 +1,12 @@
 var express = require('express');
 var app = express();
 
-app.post('/ascii', function (req, res) {
+app.get('/', function(req, res) {
   res.send('Hello World!');
+})
+
+app.post('/ascii', function (req, res) {
+  res.send('Hello Slack!');
 });
 
 app.listen(8000, function () {

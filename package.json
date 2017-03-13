@@ -13,13 +13,13 @@
   },
   "author": "Emilio Markgraf <emilio.markgraf@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
+    "config": "^1.25.1",
     "dotenv": "^4.0.0",
     "express": "^4.15.2",
     "request": "^2.81.0",
     "slack-node": "^0.1.8"
   },
-  "dependencies": {
-    "config": "^1.25.1"
+  "devDependencies": {
   }
 }

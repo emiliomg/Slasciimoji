@@ -1,7 +1,0 @@
-{
-	"slack": {
-		"webhook": "http://foo.de/bar",
-		"token_api": "123123123",
-		"token_command": "123123123"
-	}
-}

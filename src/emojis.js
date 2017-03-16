@@ -7,13 +7,13 @@ const emojis = {
 	"zoidberg": "(\\/)(°,,,°)(\\/)",
 	"sunglasses": "(⌐■_■)",
 	"y u no": "ლ(ಠ益ಠლ)",
-	"cry": "(ಥ﹏ಥ)"
+	"cry": "(ಥ﹏ಥ)",
 	"do it": "(☞ﾟヮﾟ)☞",
 	"teddy": "ʕ•ᴥ•ʔ",
 	"flip": "(╯°□°）╯︵ ┻━┻",
 	"unflip": "┬──┬◡ﾉ(° -°ﾉ)",
 	"peak": "┬┴┬┴┤  (ಠ├┬┴┬┴",
-	"sir": "( ಠ ͜ʖರೃ)",
+	"sir": "( ಠ ͜ʖರೃ)"
 }
 
 function getEmoji(emojiName) {

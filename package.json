@@ -4,8 +4,7 @@
   "description": "Ascii emojis for Slack",
   "main": "src/app.js",
   "scripts": {
-    "dev": "nodemon src/app.js",
-    "tunnel": "lt --port 8000 &"
+    "dev": "nodemon src/app.js"
   },
   "repository": {
     "type": "git",

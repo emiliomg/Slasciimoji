@@ -1,14 +1,19 @@
 'use strict';
 
 const emojis = {
-	"sir": "( ಠ ͜ʖರೃ)",
-	"zoidberg": "(\\/)(°,,,°)(\\/)",
+	"shrug": "¯\\_(ツ)_/¯",
+	"fu": "╭∩╮(︶︿︶)╭∩╮",
 	"eyes": "ಠ_ಠ",
+	"zoidberg": "(\\/)(°,,,°)(\\/)",
 	"sunglasses": "(⌐■_■)",
+	"y u no": "ლ(ಠ益ಠლ)",
+	"cry": "(ಥ﹏ಥ)"
 	"do it": "(☞ﾟヮﾟ)☞",
+	"teddy": "ʕ•ᴥ•ʔ",
 	"flip": "(╯°□°）╯︵ ┻━┻",
 	"unflip": "┬──┬◡ﾉ(° -°ﾉ)",
-	"y u no": "ლ(ಠ益ಠლ)"
+	"peak": "┬┴┬┴┤  (ಠ├┬┴┬┴",
+	"sir": "( ಠ ͜ʖರೃ)",
 }
 
 function getEmoji(emojiName) {

@@ -1,7 +1,0 @@
-{
-  "name": "Slasciimoji: Node.js",
-  "description": "Ascii emojis for Slack",
-  "repository": "https://github.com/emiliomg/Slasciimoji",
-  "keywords": ["node", "slack", "ascii", "emoji"],
-  "image": "heroku/nodejs"
-}

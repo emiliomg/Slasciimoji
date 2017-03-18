@@ -2,8 +2,9 @@
   "name": "asciimoji",
   "version": "0.0.1",
   "description": "Ascii emojis for Slack",
-  "main": "src/app.js",
+  "start": "src/app.js",
   "scripts": {
+    "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
   "repository": {
